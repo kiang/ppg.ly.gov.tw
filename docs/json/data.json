@@ -1,0 +1,703 @@
+{
+    "台灣民眾黨": {
+        "clips": [
+            {
+                "id": "150703",
+                "name": "黃國昌",
+                "timeBegin": "2024-04-01 09:51:12",
+                "timeEnd": "2024-04-01 09:54:53",
+                "timeUnixBegin": 1711965072,
+                "timeUnixEnd": 1711965293,
+                "seconds": 221,
+                "party": "台灣民眾黨"
+            },
+            {
+                "id": "150716",
+                "name": "黃國昌",
+                "timeBegin": "2024-04-01 10:12:16",
+                "timeEnd": "2024-04-01 10:23:31",
+                "timeUnixBegin": 1711966336,
+                "timeUnixEnd": 1711967011,
+                "seconds": 675,
+                "party": "台灣民眾黨"
+            },
+            {
+                "id": "150813",
+                "name": "黃珊珊",
+                "timeBegin": "2024-04-01 12:45:06",
+                "timeEnd": "2024-04-01 12:51:53",
+                "timeUnixBegin": 1711975506,
+                "timeUnixEnd": 1711975913,
+                "seconds": 407,
+                "party": "台灣民眾黨"
+            },
+            {
+                "id": "150853",
+                "name": "黃國昌",
+                "timeBegin": "2024-04-03 09:27:20",
+                "timeEnd": "2024-04-03 09:35:49",
+                "timeUnixBegin": 1712136440,
+                "timeUnixEnd": 1712136949,
+                "seconds": 509,
+                "party": "台灣民眾黨"
+            },
+            {
+                "id": "150959",
+                "name": "黃國昌",
+                "timeBegin": "2024-04-10 09:56:23",
+                "timeEnd": "2024-04-10 10:06:08",
+                "timeUnixBegin": 1712742983,
+                "timeUnixEnd": 1712743568,
+                "seconds": 585,
+                "party": "台灣民眾黨"
+            },
+            {
+                "id": "151038",
+                "name": "黃國昌",
+                "timeBegin": "2024-04-11 10:22:22",
+                "timeEnd": "2024-04-11 10:31:32",
+                "timeUnixBegin": 1712830942,
+                "timeUnixEnd": 1712831492,
+                "seconds": 550,
+                "party": "台灣民眾黨"
+            }
+        ],
+        "seconds": 2947,
+        "count": 6,
+        "usertime": "00:49:07"
+    },
+    "中國國民黨": {
+        "clips": [
+            {
+                "id": "150684",
+                "name": "翁曉玲",
+                "timeBegin": "2024-04-01 09:22:43",
+                "timeEnd": "2024-04-01 09:24:01",
+                "timeUnixBegin": 1711963363,
+                "timeUnixEnd": 1711963441,
+                "seconds": 78,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "150688",
+                "name": "羅智強",
+                "timeBegin": "2024-04-01 09:27:59",
+                "timeEnd": "2024-04-01 09:30:20",
+                "timeUnixBegin": 1711963679,
+                "timeUnixEnd": 1711963820,
+                "seconds": 141,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "150689",
+                "name": "林思銘",
+                "timeBegin": "2024-04-01 09:30:28",
+                "timeEnd": "2024-04-01 09:31:50",
+                "timeUnixBegin": 1711963828,
+                "timeUnixEnd": 1711963910,
+                "seconds": 82,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "150698",
+                "name": "傅崐萁",
+                "timeBegin": "2024-04-01 09:46:11",
+                "timeEnd": "2024-04-01 09:51:05",
+                "timeUnixBegin": 1711964771,
+                "timeUnixEnd": 1711965065,
+                "seconds": 294,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "150707",
+                "name": "翁曉玲",
+                "timeBegin": "2024-04-01 09:54:57",
+                "timeEnd": "2024-04-01 09:57:41",
+                "timeUnixBegin": 1711965297,
+                "timeUnixEnd": 1711965461,
+                "seconds": 164,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "150708",
+                "name": "羅智強",
+                "timeBegin": "2024-04-01 09:57:49",
+                "timeEnd": "2024-04-01 09:59:38",
+                "timeUnixBegin": 1711965469,
+                "timeUnixEnd": 1711965578,
+                "seconds": 109,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "150742",
+                "name": "羅智強",
+                "timeBegin": "2024-04-01 10:59:37",
+                "timeEnd": "2024-04-01 11:10:55",
+                "timeUnixBegin": 1711969177,
+                "timeUnixEnd": 1711969855,
+                "seconds": 678,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "150762",
+                "name": "傅崐萁",
+                "timeBegin": "2024-04-01 11:28:01",
+                "timeEnd": "2024-04-01 11:38:28",
+                "timeUnixBegin": 1711970881,
+                "timeUnixEnd": 1711971508,
+                "seconds": 627,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "150778",
+                "name": "林思銘",
+                "timeBegin": "2024-04-01 11:51:53",
+                "timeEnd": "2024-04-01 12:05:05",
+                "timeUnixBegin": 1711972313,
+                "timeUnixEnd": 1711973105,
+                "seconds": 792,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "150781",
+                "name": "鄭天財Sra Kacaw",
+                "timeBegin": "2024-04-01 12:05:11",
+                "timeEnd": "2024-04-01 12:12:23",
+                "timeUnixBegin": 1711973111,
+                "timeUnixEnd": 1711973543,
+                "seconds": 432,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "150792",
+                "name": "翁曉玲",
+                "timeBegin": "2024-04-01 12:12:30",
+                "timeEnd": "2024-04-01 12:21:37",
+                "timeUnixBegin": 1711973550,
+                "timeUnixEnd": 1711974097,
+                "seconds": 547,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "150805",
+                "name": "吳宗憲",
+                "timeBegin": "2024-04-01 12:21:59",
+                "timeEnd": "2024-04-01 12:35:54",
+                "timeUnixBegin": 1711974119,
+                "timeUnixEnd": 1711974954,
+                "seconds": 835,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "150808",
+                "name": "洪孟楷",
+                "timeBegin": "2024-04-01 12:36:46",
+                "timeEnd": "2024-04-01 12:44:21",
+                "timeUnixBegin": 1711975006,
+                "timeUnixEnd": 1711975461,
+                "seconds": 455,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "150855",
+                "name": "牛煦庭",
+                "timeBegin": "2024-04-03 09:45:14",
+                "timeEnd": "2024-04-03 09:50:27",
+                "timeUnixBegin": 1712137514,
+                "timeUnixEnd": 1712137827,
+                "seconds": 313,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "150858",
+                "name": "吳宗憲",
+                "timeBegin": "2024-04-03 09:50:58",
+                "timeEnd": "2024-04-03 09:57:09",
+                "timeUnixBegin": 1712137858,
+                "timeUnixEnd": 1712138229,
+                "seconds": 371,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "150861",
+                "name": "翁曉玲",
+                "timeBegin": "2024-04-03 10:06:25",
+                "timeEnd": "2024-04-03 10:11:49",
+                "timeUnixBegin": 1712138785,
+                "timeUnixEnd": 1712139109,
+                "seconds": 324,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "150866",
+                "name": "羅智強",
+                "timeBegin": "2024-04-03 10:21:54",
+                "timeEnd": "2024-04-03 10:28:10",
+                "timeUnixBegin": 1712139714,
+                "timeUnixEnd": 1712140090,
+                "seconds": 376,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "150877",
+                "name": "洪孟楷",
+                "timeBegin": "2024-04-03 11:25:05",
+                "timeEnd": "2024-04-03 11:31:06",
+                "timeUnixBegin": 1712143505,
+                "timeUnixEnd": 1712143866,
+                "seconds": 361,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "150995",
+                "name": "羅智強",
+                "timeBegin": "2024-04-10 12:11:45",
+                "timeEnd": "2024-04-10 12:20:05",
+                "timeUnixBegin": 1712751105,
+                "timeUnixEnd": 1712751605,
+                "seconds": 500,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "151026",
+                "name": "羅智強",
+                "timeBegin": "2024-04-11 09:18:56",
+                "timeEnd": "2024-04-11 09:24:15",
+                "timeUnixBegin": 1712827136,
+                "timeUnixEnd": 1712827455,
+                "seconds": 319,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "151104",
+                "name": "吳宗憲",
+                "timeBegin": "2024-04-15 10:20:52",
+                "timeEnd": "2024-04-15 10:25:26",
+                "timeUnixBegin": 1713176452,
+                "timeUnixEnd": 1713176726,
+                "seconds": 274,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "151105",
+                "name": "翁曉玲",
+                "timeBegin": "2024-04-15 10:25:42",
+                "timeEnd": "2024-04-15 10:28:54",
+                "timeUnixBegin": 1713176742,
+                "timeUnixEnd": 1713176934,
+                "seconds": 192,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "151151",
+                "name": "翁曉玲",
+                "timeBegin": "2024-04-15 12:37:28",
+                "timeEnd": "2024-04-15 12:41:45",
+                "timeUnixBegin": 1713184648,
+                "timeUnixEnd": 1713184905,
+                "seconds": 257,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "151153",
+                "name": "羅智強",
+                "timeBegin": "2024-04-15 12:41:49",
+                "timeEnd": "2024-04-15 12:46:20",
+                "timeUnixBegin": 1713184909,
+                "timeUnixEnd": 1713185180,
+                "seconds": 271,
+                "party": "中國國民黨"
+            },
+            {
+                "id": "151184",
+                "name": "翁曉玲",
+                "timeBegin": "2024-04-15 15:19:56",
+                "timeEnd": "2024-04-15 15:24:32",
+                "timeUnixBegin": 1713194396,
+                "timeUnixEnd": 1713194672,
+                "seconds": 276,
+                "party": "中國國民黨"
+            }
+        ],
+        "seconds": 9068,
+        "count": 25,
+        "usertime": "02:31:08"
+    },
+    "民主進步黨": {
+        "clips": [
+            {
+                "id": "150683",
+                "name": "沈發惠",
+                "timeBegin": "2024-04-01 09:18:42",
+                "timeEnd": "2024-04-01 09:21:46",
+                "timeUnixBegin": 1711963122,
+                "timeUnixEnd": 1711963306,
+                "seconds": 184,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "150687",
+                "name": "鍾佳濱",
+                "timeBegin": "2024-04-01 09:24:07",
+                "timeEnd": "2024-04-01 09:27:11",
+                "timeUnixBegin": 1711963447,
+                "timeUnixEnd": 1711963631,
+                "seconds": 184,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "150693",
+                "name": "柯建銘",
+                "timeBegin": "2024-04-01 09:35:20",
+                "timeEnd": "2024-04-01 09:40:18",
+                "timeUnixBegin": 1711964120,
+                "timeUnixEnd": 1711964418,
+                "seconds": 298,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "150695",
+                "name": "陳俊宇",
+                "timeBegin": "2024-04-01 09:40:32",
+                "timeEnd": "2024-04-01 09:42:01",
+                "timeUnixBegin": 1711964432,
+                "timeUnixEnd": 1711964521,
+                "seconds": 89,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "150723",
+                "name": "沈發惠",
+                "timeBegin": "2024-04-01 10:23:39",
+                "timeEnd": "2024-04-01 10:34:59",
+                "timeUnixBegin": 1711967019,
+                "timeUnixEnd": 1711967699,
+                "seconds": 680,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "150728",
+                "name": "陳俊宇",
+                "timeBegin": "2024-04-01 10:35:07",
+                "timeEnd": "2024-04-01 10:46:27",
+                "timeUnixBegin": 1711967707,
+                "timeUnixEnd": 1711968387,
+                "seconds": 680,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "150737",
+                "name": "莊瑞雄",
+                "timeBegin": "2024-04-01 10:46:34",
+                "timeEnd": "2024-04-01 10:59:30",
+                "timeUnixBegin": 1711968394,
+                "timeUnixEnd": 1711969170,
+                "seconds": 776,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "150758",
+                "name": "鍾佳濱",
+                "timeBegin": "2024-04-01 11:16:37",
+                "timeEnd": "2024-04-01 11:27:54",
+                "timeUnixBegin": 1711970197,
+                "timeUnixEnd": 1711970874,
+                "seconds": 677,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "150772",
+                "name": "吳思瑤",
+                "timeBegin": "2024-04-01 11:38:38",
+                "timeEnd": "2024-04-01 11:51:47",
+                "timeUnixBegin": 1711971518,
+                "timeUnixEnd": 1711972307,
+                "seconds": 789,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "150863",
+                "name": "吳思瑤",
+                "timeBegin": "2024-04-03 10:11:57",
+                "timeEnd": "2024-04-03 10:21:37",
+                "timeUnixBegin": 1712139117,
+                "timeUnixEnd": 1712139697,
+                "seconds": 580,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "150868",
+                "name": "莊瑞雄",
+                "timeBegin": "2024-04-03 10:28:53",
+                "timeEnd": "2024-04-03 10:37:13",
+                "timeUnixBegin": 1712140133,
+                "timeUnixEnd": 1712140633,
+                "seconds": 500,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "150872",
+                "name": "鍾佳濱",
+                "timeBegin": "2024-04-03 10:46:06",
+                "timeEnd": "2024-04-03 10:53:13",
+                "timeUnixBegin": 1712141166,
+                "timeUnixEnd": 1712141593,
+                "seconds": 427,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "150981",
+                "name": "鍾佳濱",
+                "timeBegin": "2024-04-10 11:25:46",
+                "timeEnd": "2024-04-10 11:32:52",
+                "timeUnixBegin": 1712748346,
+                "timeUnixEnd": 1712748772,
+                "seconds": 426,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "150984",
+                "name": "莊瑞雄",
+                "timeBegin": "2024-04-10 11:46:28",
+                "timeEnd": "2024-04-10 11:54:48",
+                "timeUnixBegin": 1712749588,
+                "timeUnixEnd": 1712750088,
+                "seconds": 500,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "151032",
+                "name": "鍾佳濱",
+                "timeBegin": "2024-04-11 10:04:49",
+                "timeEnd": "2024-04-11 10:10:00",
+                "timeUnixBegin": 1712829889,
+                "timeUnixEnd": 1712830200,
+                "seconds": 311,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "151062",
+                "name": "莊瑞雄",
+                "timeBegin": "2024-04-11 12:11:24",
+                "timeEnd": "2024-04-11 12:19:07",
+                "timeUnixBegin": 1712837484,
+                "timeUnixEnd": 1712837947,
+                "seconds": 463,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "151064",
+                "name": "蔡易餘",
+                "timeBegin": "2024-04-11 12:19:17",
+                "timeEnd": "2024-04-11 12:25:44",
+                "timeUnixBegin": 1712837957,
+                "timeUnixEnd": 1712838344,
+                "seconds": 387,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "151091",
+                "name": "莊瑞雄",
+                "timeBegin": "2024-04-15 09:43:37",
+                "timeEnd": "2024-04-15 09:48:02",
+                "timeUnixBegin": 1713174217,
+                "timeUnixEnd": 1713174482,
+                "seconds": 265,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "151098",
+                "name": "柯建銘",
+                "timeBegin": "2024-04-15 10:04:46",
+                "timeEnd": "2024-04-15 10:11:16",
+                "timeUnixBegin": 1713175486,
+                "timeUnixEnd": 1713175876,
+                "seconds": 390,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "151099",
+                "name": "沈伯洋",
+                "timeBegin": "2024-04-15 10:12:02",
+                "timeEnd": "2024-04-15 10:15:22",
+                "timeUnixBegin": 1713175922,
+                "timeUnixEnd": 1713176122,
+                "seconds": 200,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "151102",
+                "name": "李柏毅",
+                "timeBegin": "2024-04-15 10:16:40",
+                "timeEnd": "2024-04-15 10:20:00",
+                "timeUnixBegin": 1713176200,
+                "timeUnixEnd": 1713176400,
+                "seconds": 200,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "151107",
+                "name": "吳思瑤",
+                "timeBegin": "2024-04-15 10:30:04",
+                "timeEnd": "2024-04-15 10:34:03",
+                "timeUnixBegin": 1713177004,
+                "timeUnixEnd": 1713177243,
+                "seconds": 239,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "151123",
+                "name": "柯建銘",
+                "timeBegin": "2024-04-15 11:49:25",
+                "timeEnd": "2024-04-15 11:52:38",
+                "timeUnixBegin": 1713181765,
+                "timeUnixEnd": 1713181958,
+                "seconds": 193,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "151126",
+                "name": "柯建銘",
+                "timeBegin": "2024-04-15 12:03:26",
+                "timeEnd": "2024-04-15 12:08:52",
+                "timeUnixBegin": 1713182606,
+                "timeUnixEnd": 1713182932,
+                "seconds": 326,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "151127",
+                "name": "吳思瑤",
+                "timeBegin": "2024-04-15 12:09:00",
+                "timeEnd": "2024-04-15 12:15:34",
+                "timeUnixBegin": 1713182940,
+                "timeUnixEnd": 1713183334,
+                "seconds": 394,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "151130",
+                "name": "鍾佳濱",
+                "timeBegin": "2024-04-15 12:15:37",
+                "timeEnd": "2024-04-15 12:21:50",
+                "timeUnixBegin": 1713183337,
+                "timeUnixEnd": 1713183710,
+                "seconds": 373,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "151132",
+                "name": "沈發惠",
+                "timeBegin": "2024-04-15 12:22:31",
+                "timeEnd": "2024-04-15 12:27:25",
+                "timeUnixBegin": 1713183751,
+                "timeUnixEnd": 1713184045,
+                "seconds": 294,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "151133",
+                "name": "陳俊宇",
+                "timeBegin": "2024-04-15 12:27:30",
+                "timeEnd": "2024-04-15 12:31:48",
+                "timeUnixBegin": 1713184050,
+                "timeUnixEnd": 1713184308,
+                "seconds": 258,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "151148",
+                "name": "莊瑞雄",
+                "timeBegin": "2024-04-15 12:31:56",
+                "timeEnd": "2024-04-15 12:37:23",
+                "timeUnixBegin": 1713184316,
+                "timeUnixEnd": 1713184643,
+                "seconds": 327,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "151164",
+                "name": "柯建銘",
+                "timeBegin": "2024-04-15 14:43:30",
+                "timeEnd": "2024-04-15 14:48:18",
+                "timeUnixBegin": 1713192210,
+                "timeUnixEnd": 1713192498,
+                "seconds": 288,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "151174",
+                "name": "鍾佳濱",
+                "timeBegin": "2024-04-15 14:48:21",
+                "timeEnd": "2024-04-15 14:53:34",
+                "timeUnixBegin": 1713192501,
+                "timeUnixEnd": 1713192814,
+                "seconds": 313,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "151176",
+                "name": "沈發惠",
+                "timeBegin": "2024-04-15 14:53:37",
+                "timeEnd": "2024-04-15 14:58:54",
+                "timeUnixBegin": 1713192817,
+                "timeUnixEnd": 1713193134,
+                "seconds": 317,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "151177",
+                "name": "陳俊宇",
+                "timeBegin": "2024-04-15 14:58:58",
+                "timeEnd": "2024-04-15 15:03:38",
+                "timeUnixBegin": 1713193138,
+                "timeUnixEnd": 1713193418,
+                "seconds": 280,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "151179",
+                "name": "沈伯洋",
+                "timeBegin": "2024-04-15 15:03:48",
+                "timeEnd": "2024-04-15 15:08:08",
+                "timeUnixBegin": 1713193428,
+                "timeUnixEnd": 1713193688,
+                "seconds": 260,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "151181",
+                "name": "吳思瑤",
+                "timeBegin": "2024-04-15 15:08:12",
+                "timeEnd": "2024-04-15 15:13:37",
+                "timeUnixBegin": 1713193692,
+                "timeUnixEnd": 1713194017,
+                "seconds": 325,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "151182",
+                "name": "莊瑞雄",
+                "timeBegin": "2024-04-15 15:13:39",
+                "timeEnd": "2024-04-15 15:19:51",
+                "timeUnixBegin": 1713194019,
+                "timeUnixEnd": 1713194391,
+                "seconds": 372,
+                "party": "民主進步黨"
+            },
+            {
+                "id": "151185",
+                "name": "賴惠員",
+                "timeBegin": "2024-04-15 15:24:39",
+                "timeEnd": "2024-04-15 15:26:58",
+                "timeUnixBegin": 1713194679,
+                "timeUnixEnd": 1713194818,
+                "seconds": 139,
+                "party": "民主進步黨"
+            }
+        ],
+        "seconds": 13704,
+        "count": 37,
+        "usertime": "03:48:24"
+    }
+}
